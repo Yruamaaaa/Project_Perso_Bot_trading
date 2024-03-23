@@ -8,9 +8,9 @@ from timedelta import Timedelta
 from finbert_utils import estimate_sentiment
 import pandas as pd
 
-API_KEY ="PK6858C9UMBP25XBECE0" 
-API_SECRET = "3ncSFRonNaVuNm0mcfmoMFw9KFRAuysMAodgIOzg"
-BASE_URL ="https://paper-api.alpaca.markets/v2"
+API_KEY ="your API key" 
+API_SECRET = "your api secret"
+BASE_URL ="your base url"
 
 ALPACA_CREDS = {
     "API_KEY":API_KEY,
